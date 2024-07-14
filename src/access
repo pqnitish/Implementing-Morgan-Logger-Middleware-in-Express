@@ -1,0 +1,8 @@
+method is PUT status: undefined content-length 155
+    api endpoint:/user/:id Date:Sun Jul 14 2024 09:21:34 GMT+0530 (India Standard Time)method is DELETE status: undefined content-length 155
+    api endpoint:/user/:id Date:Sun Jul 14 2024 09:21:46 GMT+0530 (India Standard Time)method is POST status: undefined content-length 155
+    api endpoint:/add-users Date:Sun Jul 14 2024 09:22:05 GMT+0530 (India Standard Time)method is POST status: undefined content-length 155
+    api endpoint:/add-user Date:Sun Jul 14 2024 09:22:14 GMT+0530 (India Standard Time)method is POST status: undefined content-length 155
+    api endpoint:/ Date:Sun Jul 14 2024 09:22:24 GMT+0530 (India Standard Time)method is GET status: undefined content-length 155
+    api endpoint:/ Date:Sun Jul 14 2024 09:22:35 GMT+0530 (India Standard Time)method is GET status: undefined content-length 155
+    api endpoint:/get-users Date:Sun Jul 14 2024 09:22:50 GMT+0530 (India Standard Time)
